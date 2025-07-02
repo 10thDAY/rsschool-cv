@@ -11,10 +11,10 @@ I am 35 years old, I was born in Grodno, Belarus.
 I really want to beacome a programmer. I will do my best to achieve my goal.
 
 ## My strengths:
-Communicative
-Diligent
-Team player
-Responsible
+* Communicative
+* Diligent
+* Team player
+* Responsible
 
 ## Skills
 * HTML
@@ -37,3 +37,9 @@ Furtinure factory "ZOV", machining centre operator
   + inguitstic support of intercultural communication
   + Tour guide
 
+## Languages
+* Russian - native speaker.
+* Belarusian -native speaker
+* English - B2
+* Polish - B1
+* German - A2
