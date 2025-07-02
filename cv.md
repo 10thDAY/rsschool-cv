@@ -34,7 +34,7 @@ Furtinure factory "ZOV", machining centre operator
 
 ## Education
 * Yanka Kupala State University of Grodno
-  + inguitstic support of intercultural communication
+  + Linguitstic support of intercultural communication
   + Tour guide
 
 ## Languages
