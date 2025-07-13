@@ -31,7 +31,7 @@ li {
   justify-content: center;
   align-items: center;
   padding: 0;
-  text-transform: uppercase;
+    text-transform: uppercase;
 }
 
 .nav-link {
@@ -81,7 +81,7 @@ li {
 }
 
 .section {
-  padding: 30px 60px;
+  padding: 20px 60px;
 }
 
 .section-title span {
@@ -104,8 +104,14 @@ li {
   color: #ffd900;
 }
 
-.main .section-item span {
-  color: #0d1038;
+.main .section-item span,
+.span {
+  color: #191e61;
+  font-weight: 600;
+}
+
+.main .section-item :hover {
+  color: #ffd900;
 }
 
 .link {
